@@ -1,0 +1,10 @@
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\bin\Debug\OrderSoftware.exe.config
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\bin\Debug\OrderSoftware.exe
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\bin\Debug\OrderSoftware.pdb
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\obj\Debug\OrderSoftware.csproj.AssemblyReference.cache
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\obj\Debug\OrderSoftware.Form1.resources
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\obj\Debug\OrderSoftware.Properties.Resources.resources
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\obj\Debug\OrderSoftware.csproj.GenerateResource.cache
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\obj\Debug\OrderSoftware.csproj.CoreCompileInputs.cache
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\obj\Debug\OrderSoftware.exe
+C:\Users\pgeaA1FE\source\repos\OrderSoftware\OrderSoftware\obj\Debug\OrderSoftware.pdb
